@@ -110,3 +110,8 @@ secrets*.json
 
 # API Keys Backup
 API_KEYS_BACKUP.txt
+
+# Test output files
+test-output.*
+*.wav
+*.mp3
