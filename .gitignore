@@ -1,0 +1,112 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build Output
+dist/
+dist-electron/
+build/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor Directories and Files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.code-workspace
+
+# Electron
+electron-builder.yml
+app-update.yml
+
+# OS
+Thumbs.db
+Desktop.ini
+.AppleDouble
+.LSOverride
+._*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+.parcel-cache/
+
+# Production
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.rpm
+*.snap
+
+# Runtime Data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.development
+.env.test
+
+# Vite
+.vite/
+
+# Local settings (user preferences)
+.local/
+local-settings.json
+
+# Screenshots and captures (if saving to project)
+screenshots/
+captures/
+
+# API Keys backup (safety)
+*_api_keys*.json
+credentials*.json
+secrets*.json
+
+# API Keys Backup
+API_KEYS_BACKUP.txt

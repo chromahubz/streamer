@@ -1,0 +1,192 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                  AI STREAMER ASSISTANT - ONE PAGE GUIDE              ║
+║                         Quick Reference Card                         ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 WHAT IT DOES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Reads your chat → Generates AI responses → Speaks them out loud!
+
+Works with: Twitch, YouTube, Kick, TikTok, any streaming platform
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 5-MINUTE SETUP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OPEN APP (should already be running ✓)
+   Window with 3 tabs: Setup | Chat & Responses | Stats
+
+2. SETUP TAB → Choose Personality
+   Click: 🎮 Energetic Gamer (or any other)
+
+3. SETUP TAB → Monitor Selection
+   • Click "Get Available Sources"
+   • Chat Monitor: Click thumbnail showing your chat overlay
+   • Click "Start Capture" (under chat)
+   • Gameplay Monitor: Click thumbnail showing your game
+   • Click "Start Capture" (under gameplay)
+
+4. CHAT & RESPONSES TAB → Use It!
+   • Left: See chat messages appear
+   • Right: Generate AI responses
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎮 HOW TO USE (DURING STREAM)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 1: Viewer sends message
+        "What FOV are you using?"
+
+STEP 2: Message appears in Chat Feed (left side)
+
+STEP 3: Click on the message → It highlights
+
+STEP 4: Click "Generate Response" button → Wait 3 seconds
+
+STEP 5: See 3-5 response options:
+        1. "I'm using 90 FOV! Perfect for gameplay 🎮"
+        2. "90 FOV - helps me see more!"
+        3. "FOV is 90, want me to show settings?"
+
+STEP 6: Click on the response you like → It highlights
+
+STEP 7: Click "Play TTS" → AI speaks it!
+
+DONE! Viewers hear your response.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 KEY BUTTONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Get Available Sources] → Shows all your screens/windows
+[Start Capture]         → Begins OCR (reading text from screen)
+[Generate Response]     → AI creates 3-5 response options
+[Play TTS]             → Speaks selected response (AI voice)
+[Regenerate]           → Get new response options
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨 4 PERSONALITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎮 Energetic Gamer    → Hype, excited, gaming slang
+😎 Chill Commentator  → Relaxed, friendly, calm
+📚 Educational Guide  → Helpful, teaching, patient
+😏 Sarcastic Comedian → Witty, funny, jokes
+
+Pick based on your stream vibe!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌍 TRANSLATION (OPTIONAL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Setup Tab → Translation Settings:
+1. Toggle "Enable Translation" ON
+2. Source Language: Your language (e.g., English 🇺🇸)
+3. Target Language: Viewer's language (e.g., Spanish 🇪🇸)
+4. Toggle "Bidirectional" ON
+
+Now: Their messages → Translated for you
+     Your responses → Translated for them
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎤 VOICE INPUT (OPTIONAL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Setup Tab → Voice Input:
+1. Click "Start Recording" 🔴
+2. Speak into microphone
+3. Click "Stop Recording"
+4. AI transcribes your speech
+5. Creates chat message from your voice
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 QUICK TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❌ Chat not appearing?
+   → Check "Chat Capturing" badge is showing
+   → Make sure correct monitor selected
+   → Chat visible on that screen?
+
+❌ Responses not generating?
+   → Did you click on a message first?
+   → Wait 3-5 seconds for AI
+   → Check green "Connected" badge at top
+
+❌ TTS not playing?
+   → Did you click on a response first?
+   → Volume turned up?
+   → Run: node test-apis.js
+
+❌ App crashed?
+   → Close app, restart: npm run dev
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ STATUS INDICATORS (TOP OF APP)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 Backend: Connected    ← Everything working!
+🟢 Chat Capturing        ← Reading chat
+🟢 Gameplay Capturing    ← Reading game screen
+🌐 Translation: EN→ES    ← Translation active
+🟢 OBS Connected         ← OBS linked (optional)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 STATS TAB
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Shows:
+• OCR Performance (how well it's reading)
+• Total messages captured
+• Gameplay context (what game, what's happening)
+• Cache stats (optimization working)
+
+All automatic - just check it's green ✅
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PRE-STREAM CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before going live:
+□ App is open (Electron window)
+□ Personality selected
+□ Chat monitor selected & capturing
+□ Gameplay monitor selected & capturing
+□ Green "Connected" badge showing
+□ Test: Click message → Generate → Play TTS
+□ Your streaming software ready (OBS, etc.)
+
+Then go live! 🚀
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📚 MORE HELP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Full Tutorial:     BEGINNER_TUTORIAL.md
+Visual Guide:      QUICK_VISUAL_GUIDE.md
+5-Min Setup:       QUICKSTART.md
+Detailed Docs:     README.md
+API Status:        API_STATUS.txt
+Test APIs:         node test-apis.js
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎙️ TIPS FOR SUCCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Start simple - just chat OCR + responses first
+✓ Test before going live
+✓ Read all response options before choosing
+✓ Use "Regenerate" if you don't like the options
+✓ Make chat text bigger/clearer for better OCR
+✓ Switch personalities for different games/moods
+✓ Monitor stats to ensure everything works
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎉 YOU'RE READY TO STREAM! 🎮
+
+Keep this guide nearby during your first few streams!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
